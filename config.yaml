@@ -44,7 +44,7 @@ params:
   # Optional
   home: '' # Default: Home
   about: '' # Default: About
-  archive: '' # Default: Archive
+  # archive: '' # Default: Archive
   tags: '' # Default: Tags
   subscribe: '' # Default: Subscribe
   olderPosts: '' # Default: Older Posts
