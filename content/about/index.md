@@ -49,6 +49,8 @@ title: "About Us"
 
 2015~2018 期间，利器由[离线团队](https://weibo.com/theoffline)制作，也有自己的公众号离线时间（theoffline），同时在制作一本科技文化杂志[《离线》](https://the-offline.com/)，它现在有了线上版本，《离线》于 2017 年停刊，你还可以在[知乎上](https://www.zhihu.com/pub/specials/19550224)读到她的电子刊，或购买纸书。
 
+2020 年 11 月，《离线》复刊。
+
 ### 联系我们  ———
 
 反馈、合作或推荐受访者请联系：bob@the-offline.com。
