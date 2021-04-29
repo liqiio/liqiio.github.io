@@ -49,7 +49,7 @@ params:
   subscribe: '' # Default: Subscribe
   olderPosts: '' # Default: Older Posts
   newerPosts: '' # Default: Newer Posts
-  copyright: '© 2021 离线Offline' # Default: © Copyright 2021 ❤️ author
+  copyright: '© 2021 CC-BY-NC-SA' # Default: © Copyright 2021 ❤️ author
   title404: '' # Default: 404 - Page Not Found
   subtitle404: '' # Default: The content you're looking for doesn't seem to exist.
   readMore: '' # Default: Read More
@@ -57,5 +57,5 @@ params:
   # Extra links in navigation
   links:
     # e.g.
-    # - name: Project
-    #   path: /project
+    - name: Community
+      path: /community
