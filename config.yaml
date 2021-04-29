@@ -7,7 +7,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /:filename/
 
-googleAnalytics: UA-64688885-1
+googleAnalytics: G-G50GH2BZWL
 #disqusShortname: your-disqus-shortname
 
 # Hugo Configure Markup
