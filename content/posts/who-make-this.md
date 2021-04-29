@@ -14,4 +14,5 @@ date: 2018-12-00T16:21:53+08:00
 
 其他团队成员：Winboy
 <h2 style="text-align: center;"><strong>2015~2018</strong></h2>
-2015~2018 期间利器由<a href="https://weibo.com/theoffline" target="_blank">离线团队</a>制作，也有自己的公众号离线时间（theoffline），同时在制作一本科技文化杂志<a href="https://the-offline.com" target="_blank">《离线》</a>，它现在有了线上版本，《 离线》于2017年停刊，你还可以在<a href="https://www.zhihu.com/pub/specials/19550224" target="_blank">知乎上</a>读到她的电子 刊，或购买纸书。
+2015~2018 期间利器由<a href="https://weibo.com/theoffline" target="_blank">离线团队</a>制作，也有自己的公众号离线时间（theoffline），同时在制作一本科技文化杂志<a href="https://the-offline.com" target="_blank">《离线》</a>，它现在有了线上版本，《离线》于 2017 年停刊，你还可以在<a href="https://www.zhihu.com/pub/specials/19550224" target="_blank">知乎上</a>读到她的电子刊，或购买纸书。2020 年，《离线》<a href="https://zhuanlan.zhihu.com/p/296282409">复刊</a>。
+
