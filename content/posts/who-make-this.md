@@ -10,7 +10,7 @@ date: 2018-12-00T16:21:53+08:00
 
 当前团队成员：
 
-<a href="https://twitter.com/fm100" target="_blank">Bob</a>、<a href="https://twitter.com/way2steve">Steve Sun</a><a href="https://lisan.io/" target="_blank">菲兹</a>、<a href="https://dbarobin.com/" target="_blank">Robin</a>、毛掌门、<a href="https://twitter.com/Underwaternya" target="_blank">林沁</a>、高聪。
+<a href="https://twitter.com/fm100" target="_blank">Bob</a>、<a href="https://twitter.com/way2steve">Steve Sun</a>、<a href="https://lisan.io/" target="_blank">菲兹</a>、<a href="https://dbarobin.com/" target="_blank">Robin</a>、毛掌门、<a href="https://twitter.com/Underwaternya" target="_blank">林沁</a>、高聪。
 
 其他团队成员：Winboy
 <h2 style="text-align: center;"><strong>2015~2018</strong></h2>
