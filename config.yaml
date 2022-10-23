@@ -29,6 +29,7 @@ social:
 
 # Site parameters
 params:
+  env: production
   # Site Author
   author: 离线offline
   # Author biography
